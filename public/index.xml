@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PReports | projects at a glance</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on PReports | projects at a glance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2015 22:06:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>entry</title>
+      <link>http://localhost:1313/post/entry/</link>
+      <pubDate>Tue, 01 Dec 2015 22:06:14 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 01 Dec 2015 21:43:50 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>http://localhost:1313/features/</link>
+      <pubDate>Tue, 01 Dec 2015 19:18:45 +0100</pubDate>
+      
+      <guid>http://localhost:1313/features/</guid>
+      <description>
+
+&lt;h1 id=&#34;features:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Features&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manage your reports on a weekly basis&lt;/li&gt;
+&lt;li&gt;Powerful and easy search&lt;/li&gt;
+&lt;li&gt;Fast editing&lt;/li&gt;
+&lt;li&gt;Send links to your report&lt;/li&gt;
+&lt;li&gt;Undo last 20 edits&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>http://localhost:1313/demo/</link>
+      <pubDate>Tue, 01 Dec 2015 21:44:23 +0100</pubDate>
+      
+      <guid>http://localhost:1313/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pricing</title>
+      <link>http://localhost:1313/pricing/</link>
+      <pubDate>Tue, 01 Dec 2015 21:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/pricing/</guid>
+      <description>
+
+&lt;h1 id=&#34;pricing:0120fabe74c55d02d54239cee6e78332&#34;&gt;Pricing&lt;/h1&gt;
+
+&lt;p&gt;PReports is available under the MIT License. You are free to just use it.
+However if you want a hosted version or need some extra features feel free to contact us.
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>testimonials</title>
+      <link>http://localhost:1313/testimonials/</link>
+      <pubDate>Tue, 01 Dec 2015 21:44:09 +0100</pubDate>
+      
+      <guid>http://localhost:1313/testimonials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 01 Dec 2015 21:43:28 +0100</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

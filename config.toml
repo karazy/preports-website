@@ -1,0 +1,115 @@
+baseurl = "http://p-reports.com/"
+languageCode = "en-us"
+title = "PReports | projects at a glance"
+theme = "hugo-creative-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Your description"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "PReports"
+
+	[params.navigation.links]
+		about     = "About"
+		services  = "Services"
+		portfolio = "Testimonials"
+		pricing     = "Pricing"
+		contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "PReports"
+		subtitle   = "projects at a glance"
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Create and manage weekly IT project reports!"
+		description = "Create you weekly project report in a view minutes. Are you tired of copying the same slides every week, just to update a few lines of texts? See how PReports lets you create your reports in a breeze."
+		buttonText  = "Give it a try!"
+		link = "https://preports.herokuapp.com"
+
+
+	# Service section
+	[params.services]
+		headline = "Features"
+
+        [[params.services.list]]
+            icon = "fa-sitemap"
+            title = "Organized"
+            description = "Organize your reports on a weekly basis. Create a new report in seconds."
+
+        [[params.services.list]]
+			icon = "fa-search"
+			title = "Search"
+			description = "Easily find the report you are looking for."
+
+		[[params.services.list]]
+            icon = "fa-rocket"
+            title = "Fast"
+            description = "Edit on the go and let the auto save do the rest."
+
+        [[params.services.list]]
+            icon = "fa-share-alt"
+            title = "Share"
+            description = "Finished the report? Just send your colleaques the link or notify them via mail or slack."
+
+        [[params.services.list]]
+            icon = "fa-clone"
+            title = "Copy"
+            description = "New week, new report. Just one (actually two ^) clicks."
+
+        [[params.services.list]]
+            icon = "fa-undo"
+            title = "Undo"
+            description = "Made a mistake? Undo your last 20 edits."
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        buttonText = "Close"
+
+    # Pricing section
+	[params.pricing]
+		headline    = "See our different packages"
+		description = "Lirum larum"
+
+    # Aside section
+	[params.aside]
+		headline = "Get PReports now!"
+
+		[params.aside.button]
+			text = "Fork it on Github"
+			link = "//github.com/karazy/preports"
+
+	# Contact section
+	[params.contact]
+		headline = "Do you have a question or need an offer?"
+		description = "Feel free to contact me."
+		email = "frederik.reifschneider@gmail.com"
