@@ -32,7 +32,7 @@ theme = "hugo-creative-theme"
 
 	[params.navigation.links]
 		about     = "About"
-		services  = "Services"
+		services  = "Features"
 		portfolio = "Testimonials"
 		pricing     = "Pricing"
 		contact   = "Contact"
@@ -49,7 +49,7 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "Create and manage weekly IT project reports!"
-		description = "Create you weekly project report in a view minutes. Are you tired of copying the same slides every week, just to update a few lines of texts? See how PReports lets you create your reports in a breeze."
+		description = "Create you weekly project report in a few minutes. Concentrate on the content instead of copying the same slides every week, just to update a few lines of texts. See how PReports lets you create your reports in a breeze."
 		buttonText  = "Give it a try!"
 		link = "https://preports.herokuapp.com"
 
@@ -88,6 +88,11 @@ theme = "hugo-creative-theme"
             title = "Undo"
             description = "Made a mistake? Undo your last 20 edits."
 
+        [[params.services.list]]
+            icon = "fa-lock"
+            title = "Security"
+            description = "Supports CAS out of the box. Plugin for other auth systems possible."
+
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -111,5 +116,7 @@ theme = "hugo-creative-theme"
 	# Contact section
 	[params.contact]
 		headline = "Do you have a question or need an offer?"
-		description = "Feel free to contact me."
+		description = "Please contact me."
 		email = "frederik.reifschneider@gmail.com"
+		linkedin_url = "https://de.linkedin.com/in/frederik-reifschneider-8587bb1b"
+		linkedin_name = "Frederik Reifschneider"
