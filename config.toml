@@ -19,23 +19,35 @@ theme = "hugo-creative-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
+	name = "Frederik Reifschneider"
 	description = "Your description"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
 
 
+
 	# Navigation
 	[params.navigation]
 		brand = "PReports"
 
-	[params.navigation.links]
-		about     = "About"
-		services  = "Features"
-		portfolio = "Testimonials"
-		pricing     = "Pricing"
-		contact   = "Contact"
+	#portfolio = "Testimonials"
+
+		[[params.navigation.links]]
+			title = "About"
+			href = "about"
+
+		[[params.navigation.links]]
+			title = "Features"
+			href = "services"
+
+		[[params.navigation.links]]
+			title = "Pricing"
+			href = "pricing"
+
+		[[params.navigation.links]]
+			title = "Contact"
+			href = "contact"
 
 
 	# Hero section
@@ -50,7 +62,7 @@ theme = "hugo-creative-theme"
 	[params.about]
 		headline    = "Create and manage weekly IT project reports!"
 		description = "Create you weekly project report in a few minutes. Concentrate on the content instead of copying the same slides every week, just to update a few lines of texts. See how PReports lets you create your reports in a breeze."
-		buttonText  = "Give it a try!"
+		buttonText  = "Try the demo!"
 		link = "https://preports.herokuapp.com"
 
 
@@ -102,7 +114,7 @@ theme = "hugo-creative-theme"
 
     # Pricing section
 	[params.pricing]
-		headline    = "See our different packages"
+		headline    = "Pricing"
 		description = "Lirum larum"
 
     # Aside section
@@ -115,7 +127,7 @@ theme = "hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
-		headline = "Do you have a question or need an offer?"
+		headline = "Need support?"
 		description = "Please contact me."
 		email = "frederik.reifschneider@gmail.com"
 		linkedin_url = "https://de.linkedin.com/in/frederik-reifschneider-8587bb1b"
