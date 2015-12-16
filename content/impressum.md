@@ -10,13 +10,6 @@ type = "misc"
 Frederik Reifschneider
 64285 Darmstadt
 
-### Kontakt:
-E-Mail: mustermann@musterfirma.de
-
-### Umsatzsteuer-ID
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 999 999 999
-### Aufsichtsbehörde
-Landratsamt Musterstadt
 
 Quelle: [http://www.e-recht24.de](http://www.e-recht24.de/impressum-generator.html)
 

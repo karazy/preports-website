@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PReports | projects at a glance</title>
-    <link>http://localhost:1313/</link>
+    <link>http://p-reports.com/</link>
     <description>Recent content on PReports | projects at a glance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Dec 2015 22:03:42 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://p-reports.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>privacy</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>http://p-reports.com/privacy/</link>
       <pubDate>Wed, 16 Dec 2015 22:03:42 +0100</pubDate>
       
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>http://p-reports.com/privacy/</guid>
       <description>
 
 &lt;h3 id=&#34;datenschutz:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Datenschutz&lt;/h3&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>impressum</title>
-      <link>http://localhost:1313/impressum/</link>
+      <link>http://p-reports.com/impressum/</link>
       <pubDate>Wed, 09 Dec 2015 22:38:21 +0100</pubDate>
       
-      <guid>http://localhost:1313/impressum/</guid>
+      <guid>http://p-reports.com/impressum/</guid>
       <description>
 
 &lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
@@ -41,18 +41,6 @@
 
 &lt;p&gt;Frederik Reifschneider
 64285 Darmstadt&lt;/p&gt;
-
-&lt;h3 id=&#34;kontakt:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Kontakt:&lt;/h3&gt;
-
-&lt;p&gt;E-Mail: mustermann@musterfirma.de&lt;/p&gt;
-
-&lt;h3 id=&#34;umsatzsteuer-id:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Umsatzsteuer-ID&lt;/h3&gt;
-
-&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 999 999 999&lt;/p&gt;
-
-&lt;h3 id=&#34;aufsichtsbehörde:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Aufsichtsbehörde&lt;/h3&gt;
-
-&lt;p&gt;Landratsamt Musterstadt&lt;/p&gt;
 
 &lt;p&gt;Quelle: &lt;a href=&#34;http://www.e-recht24.de/impressum-generator.html&#34;&gt;http://www.e-recht24.de&lt;/a&gt;&lt;/p&gt;
 
@@ -70,15 +58,6 @@
 
 &lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>entry</title>
-      <link>http://localhost:1313/post/entry/</link>
-      <pubDate>Tue, 01 Dec 2015 22:06:14 +0100</pubDate>
-      
-      <guid>http://localhost:1313/post/entry/</guid>
-      <description></description>
     </item>
     
   </channel>

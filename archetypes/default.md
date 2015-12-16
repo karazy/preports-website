@@ -2,5 +2,3 @@
 author = "Frederik Reifschneider"
 
 +++
-
-#Impressum

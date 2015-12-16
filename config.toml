@@ -1,4 +1,4 @@
-baseurl = "http://p-reports.com/"
+BaseUrl = "http://p-reports.com/"
 languageCode = "en-us"
 title = "PReports | projects at a glance"
 theme = "hugo-creative-theme"
