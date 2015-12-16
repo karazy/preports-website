@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+    
+    	 {{ partial "nav.html" . }}
+    	 
+  <header>
+    <div class="header-content">
+    <!--     <div class="header-content-inner">
+            <h1>{{ with .Site.Params.hero.slogan }}{{ . }}{{ end }}</h1>
+            <hr>
+            <p>{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</p>
+            <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ with .Site.Params.hero.buttonText }}{{ . }}{{ end }}</a>
+        </div> -->
+    </div>
+</header>
+		<section id="misc">
+		    <div class="container">
+		        <div class="row">
+		            <div class="col-lg-12 text-center">
+		                {{ .Content }}
+		            </div>
+		        </div>
+		    </div>
+		</section>		
+		{{ partial "footer.html" . }}
+		{{ partial "js.html" . }}
+    </body>
+</html>
