@@ -6,8 +6,26 @@
     <description>Recent content on PReports | projects at a glance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2015 22:38:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2015 22:03:42 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Wed, 16 Dec 2015 22:03:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>
+
+&lt;h3 id=&#34;datenschutz:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Datenschutz&lt;/h3&gt;
+
+&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
+
+&lt;h3 id=&#34;datenschutzerklärung-für-die-nutzung-von-google-analytics:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Datenschutzerklärung für die Nutzung von Google Analytics&lt;/h3&gt;
+
+&lt;p&gt;Diese Website nutzt Funktionen des  Webanalysedienstes Google Analytics. Anbieter ist die Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google Analytics verwendet sog. &amp;ldquo;Cookies&amp;rdquo;. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: &lt;a href=&#34;http://tools.google.com/dlpage/gaoptout?hl=de&#34;&gt;http://tools.google.com/dlpage/gaoptout?hl=de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>impressum</title>
@@ -17,34 +35,40 @@
       <guid>http://localhost:1313/impressum/</guid>
       <description>
 
-&lt;h1 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h1&gt;
+&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
 
-&lt;p&gt;Impressum
-Angaben gemäß § 5 TMG&lt;/p&gt;
+&lt;h3 id=&#34;angaben-gemäß-5-tmg:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Angaben gemäß § 5 TMG:&lt;/h3&gt;
 
-&lt;p&gt;Currently DUMMY text&lt;/p&gt;
+&lt;p&gt;Frederik Reifschneider
+64285 Darmstadt&lt;/p&gt;
 
-&lt;p&gt;Haftungsausschluss:&lt;/p&gt;
+&lt;h3 id=&#34;kontakt:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Kontakt:&lt;/h3&gt;
 
-&lt;p&gt;Haftung für Inhalte&lt;/p&gt;
+&lt;p&gt;E-Mail: mustermann@musterfirma.de&lt;/p&gt;
+
+&lt;h3 id=&#34;umsatzsteuer-id:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Umsatzsteuer-ID&lt;/h3&gt;
+
+&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 999 999 999&lt;/p&gt;
+
+&lt;h3 id=&#34;aufsichtsbehörde:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Aufsichtsbehörde&lt;/h3&gt;
+
+&lt;p&gt;Landratsamt Musterstadt&lt;/p&gt;
+
+&lt;p&gt;Quelle: &lt;a href=&#34;http://www.e-recht24.de/impressum-generator.html&#34;&gt;http://www.e-recht24.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;haftungsausschluss:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Haftungsausschluss&lt;/h2&gt;
+
+&lt;h3 id=&#34;haftung-für-inhalte:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
 
 &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
 
-&lt;p&gt;Haftung für Links&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-links:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Haftung für Links&lt;/h3&gt;
 
 &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
 
-&lt;p&gt;Urheberrecht&lt;/p&gt;
+&lt;h3 id=&#34;urheberrecht:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Urheberrecht&lt;/h3&gt;
 
 &lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
-
-&lt;p&gt;Datenschutz&lt;/p&gt;
-
-&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;/p&gt;
-
-&lt;p&gt;Website Impressum erstellt durch impressum-generator.de von Franziska Hasselbach&lt;/p&gt;
 </description>
     </item>
     
@@ -54,78 +78,6 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
       <pubDate>Tue, 01 Dec 2015 22:06:14 +0100</pubDate>
       
       <guid>http://localhost:1313/post/entry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intro</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 01 Dec 2015 21:43:50 +0100</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>features</title>
-      <link>http://localhost:1313/features/</link>
-      <pubDate>Tue, 01 Dec 2015 19:18:45 +0100</pubDate>
-      
-      <guid>http://localhost:1313/features/</guid>
-      <description>
-
-&lt;h1 id=&#34;features:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Features&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Manage your reports on a weekly basis&lt;/li&gt;
-&lt;li&gt;Powerful and easy search&lt;/li&gt;
-&lt;li&gt;Fast editing&lt;/li&gt;
-&lt;li&gt;Send links to your report&lt;/li&gt;
-&lt;li&gt;Undo last 20 edits&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>http://localhost:1313/demo/</link>
-      <pubDate>Tue, 01 Dec 2015 21:44:23 +0100</pubDate>
-      
-      <guid>http://localhost:1313/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pricing</title>
-      <link>http://localhost:1313/pricing/</link>
-      <pubDate>Tue, 01 Dec 2015 21:44:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/pricing/</guid>
-      <description>
-
-&lt;h1 id=&#34;pricing:0120fabe74c55d02d54239cee6e78332&#34;&gt;Pricing&lt;/h1&gt;
-
-&lt;p&gt;PReports is available under the MIT License. You are free to just use it.
-However if you want a hosted version or need some extra features feel free to contact us.
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>testimonials</title>
-      <link>http://localhost:1313/testimonials/</link>
-      <pubDate>Tue, 01 Dec 2015 21:44:09 +0100</pubDate>
-      
-      <guid>http://localhost:1313/testimonials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Tue, 01 Dec 2015 21:43:28 +0100</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     

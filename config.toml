@@ -105,6 +105,11 @@ theme = "hugo-creative-theme"
             title = "Security"
             description = "Supports CAS out of the box. Plugin for other auth systems possible."
 
+        [[params.services.list]]
+            icon = "fa-github"
+            title = "OpenSource"
+            description = "PReports is open source. Feel free to grab and modify it."
+
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -131,6 +136,7 @@ theme = "hugo-creative-theme"
 		[params.aside.button]
 			text = "Fork it on Github"
 			link = "//github.com/karazy/preports"
+			icon = "fa-github"
 
 	# Contact section
 	[params.contact]
