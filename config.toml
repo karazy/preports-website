@@ -115,11 +115,18 @@ theme = "hugo-creative-theme"
     # Pricing section
 	[params.pricing]
 		headline    = "Pricing"
-		description = "Lirum larum"
+
+	[params.pricing.free]
+		title = "Free tier"
+		description = "You are free to use PReports how you want. Just grab the code from github and set it up."
+
+	[params.pricing.premium]	
+		title = "Premium tier"
+		description = "Please contact me if you have additionl feature requirements or need support for setup. Based on your requirements I will make you an offer."
 
     # Aside section
 	[params.aside]
-		headline = "Get PReports now!"
+		headline = "Get it now!"
 
 		[params.aside.button]
 			text = "Fork it on Github"
