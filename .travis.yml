@@ -1,5 +1,7 @@
 language: go
 install: true
+before_script:
+ - chmod +x ./travis_scripts/ftp_deploy.sh
 script: 
  - echo "Skip build"
 after_success:
