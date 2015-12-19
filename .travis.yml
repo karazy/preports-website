@@ -1,4 +1,5 @@
 language: go
+install: true
 script: exit 0
 after_success: 
  - openssl aes-256-cbc -K $encrypted_efbac4de9d64_key -iv $encrypted_efbac4de9d64_iv -in ./travis_scripts/id_rsa.enc -out ./travis_scripts/id_rsa -d
