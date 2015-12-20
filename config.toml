@@ -148,7 +148,7 @@ theme = "hugo-creative-theme"
 
 	[params.pricing.premium]	
 		title = "Premium tier"
-		description = "Please contact me if you have additionl feature requirements or need support for setup. Based on your requirements I will make you an offer."
+		description = "Please contact us if you have additionl feature requirements or need support for setup. Based on your requirements we will make you a great offer."
 
     # Aside section
 	[params.aside]
