@@ -100,9 +100,9 @@ theme = "hugo-creative-theme"
             description = "New week, new report. Duplicate last weeks report with just two clicks."
 
         [[params.services.list]]
-            icon = "fa-undo"
-            title = "Undo"
-            description = "Made a mistake? Undo your last 20 edits."
+            icon = "fa-mobile"
+            title = "Mobile"
+            description = "Designed with mobility in mind. Edit your reports on every device."
 
         [[params.services.list]]
             icon = "fa-lock"
@@ -144,7 +144,7 @@ theme = "hugo-creative-theme"
 
 	[params.pricing.free]
 		title = "Free tier"
-		description = "You are free to use PReports how you want. Just grab the code from github and set it up."
+		description = "PReports is open source. You are free to use PReports and modify it. Just grab the code from github and set it up."
 
 	[params.pricing.premium]	
 		title = "Premium tier"
