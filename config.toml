@@ -42,7 +42,11 @@ theme = "hugo-creative-theme"
 			href = "services"
 
 		[[params.navigation.links]]
-			title = "Pricing"
+			title = "Testimonials"
+			href = "testimonials"
+
+		[[params.navigation.links]]
+			title = "Packages"
 			href = "pricing"
 
 		[[params.navigation.links]]
@@ -93,7 +97,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
             icon = "fa-clone"
             title = "Copy"
-            description = "New week, new report. Just one (actually two ^) clicks."
+            description = "New week, new report. Duplicate last weeks report with just two clicks."
 
         [[params.services.list]]
             icon = "fa-undo"
@@ -117,9 +121,26 @@ theme = "hugo-creative-theme"
         date = "Date"
         buttonText = "Close"
 
+    # Testimonials
+
+    [params.testimonials]
+    	headline = "What others say"
+    	icon = "fa-comment"
+
+    	[[params.testimonials.list]]
+    		company = "Bisnode Germany"
+    		person = "Jürgen Schlesinger, Head of Development"
+    		statement = "PReports cuts right to the point - getting my weekly project reports done as fast as possible. It helps me keeping an overview of my projects state and makes it easy to share with colleagues. No more copy and paste of slides."
+
+    	[[params.testimonials.list]]
+    		company = "Awesome Inc"
+    		person = "Your name"
+    		statement = "Are you using PReports? We would be happy to share your statement."
+
+
     # Pricing section
 	[params.pricing]
-		headline    = "Pricing"
+		headline    = "Packages"
 
 	[params.pricing.free]
 		title = "Free tier"
@@ -141,7 +162,7 @@ theme = "hugo-creative-theme"
 	# Contact section
 	[params.contact]
 		headline = "Need support?"
-		description = "Please contact me."
+		description = "Please contact us."
 		email = "frederik.reifschneider@gmail.com"
 		linkedin_url = "https://de.linkedin.com/in/frederik-reifschneider-8587bb1b"
 		linkedin_name = "Frederik Reifschneider"

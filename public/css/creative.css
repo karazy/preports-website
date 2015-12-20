@@ -483,3 +483,25 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.testimonial {
+    margin-top: 10px;
+}
+
+.testimonial .tt-icon {
+    margin-bottom: 10px;
+}
+
+.testimonial .tt-company {
+    
+}
+
+.testimonial .tt-statement {
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.testimonial .tt-person {
+    font-weight: bold;
+}
