@@ -8,4 +8,4 @@ script:
 after_success:
  - openssl aes-256-cbc -K $encrypted_efbac4de9d64_key -iv $encrypted_efbac4de9d64_iv -in ./travis_scripts/id_rsa.enc -out ./travis_scripts/id_rsa -d
  - chmod 400 ./travis_scripts/id_rsa
- - ./travis_scripts/ftp_deploy.sh
+ #- ./travis_scripts/ftp_deploy.sh
