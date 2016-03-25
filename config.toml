@@ -131,6 +131,11 @@ theme = "hugo-creative-theme"
     		company = "Bisnode Germany"
     		person = "Jürgen Schlesinger, Head of Development"
     		statement = "PReports cuts right to the point - getting my weekly project reports done as fast as possible. It helps me keeping an overview of my projects state and makes it easy to share with colleagues. No more copy and paste of slides."
+        
+        [[params.testimonials.list]]
+    		company = "bSquary"
+    		person = "Sirko Polster, Founder"
+    		statement = "PReports is a great application that helps to keep track of our marketing initiatives and projects. To the point and very easy to use. Excellent!"
 
     	[[params.testimonials.list]]
     		company = "Awesome Inc"
